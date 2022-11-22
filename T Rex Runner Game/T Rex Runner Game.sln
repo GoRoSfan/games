@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T Rex Runner Game", "T Rex Runner Game\T Rex Runner Game.csproj", "{8004C4DD-F524-478D-B257-6EDC60748261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8004C4DD-F524-478D-B257-6EDC60748261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8004C4DD-F524-478D-B257-6EDC60748261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8004C4DD-F524-478D-B257-6EDC60748261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8004C4DD-F524-478D-B257-6EDC60748261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD228F05-99ED-4605-9F5E-F6E17633792D}
+	EndGlobalSection
+EndGlobal
